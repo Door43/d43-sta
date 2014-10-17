@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sta:home|Door43 (sta)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sta|d43-sta repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sta/archive/master.zip|d43-sta.zip]]
+
+**Recent Changes**
+{{changes>ns = sta}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sta|Ethnologue data]]
+
